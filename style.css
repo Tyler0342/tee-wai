@@ -1,0 +1,9 @@
+body {
+    background: grey;
+}
+
+p {
+    font-size: 12 px;
+    color: navy;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
